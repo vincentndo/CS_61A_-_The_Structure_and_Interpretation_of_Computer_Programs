@@ -1,1 +1,1 @@
-# CS_61A_-_The_Structure_and_Interpretation_of_Computer_Programs
+# CS 61A - The Structure and Interpretation of Computer Programs
